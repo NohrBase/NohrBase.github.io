@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Min Side – NohrBase Nettside</title>
+</head>
+<body>
+  <h1>Dette er undersiden</h1>
+  <p>Her kan du skrive om deg selv, dine prosjekter eller hva du måtte ønske.</p>
+  <p><a href="index.html">Tilbake til forsiden</a></p>
+</body>
+</html>
